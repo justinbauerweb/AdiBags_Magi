@@ -1,0 +1,35 @@
+## Interface: 90002
+## Title: AdiBags - Magi Filters
+## Version: 1.0.0
+## Author: MagiMetal
+## Notes: Custom-Specific AdiBags filters by MagiMetal
+## Dependencies: AdiBags
+
+Libs\Class.lua
+Libs\String.lua
+Libs\Table.lua
+
+Data\Core.lua
+Data\Stores.lua
+
+Data\Base\Equipment.lua
+Data\Base\Event.lua
+Data\Base\General.lua
+Data\Base\Hearthstone.lua
+Data\Base\Overrides.lua
+
+Data\Legion\Order_Hall.lua
+
+Data\Mists_Of_Pandaria\Farming.lua
+
+Data\Shadowlands\Covenant.lua
+Data\Shadowlands\Equipment.lua
+Data\Shadowlands\General.lua
+
+Data\Tradeskills\Archaeology.lua
+Data\Tradeskills\Cooking.lua
+Data\Tradeskills\Fishing.lua
+
+Data\Warlords_Of_Draenor\Garrison.lua
+
+AdiBags_Hook.lua
