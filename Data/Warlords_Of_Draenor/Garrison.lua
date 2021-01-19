@@ -187,6 +187,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Garrison, 'Garrison'), {
     122595, -- Rush Order: The Forge
     122596, -- Rush Order: The Tannery
     123858, -- Follower Retraining Scroll Case
+    124099,
     126900, -- Ship Blueprint: Destroyer
     126950, -- Equipment Blueprint: Bilge Pump
     127267, -- Ship Blueprint: Carrier

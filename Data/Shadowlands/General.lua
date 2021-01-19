@@ -626,11 +626,14 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Revendreth', nil, addo
 })
 
 addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Bastion', nil, addon.magi.Colors.Blue1), {
+    172451,
     178658,
     178658,
     178915,
     179982,
+    180062,
     182653,
+    182749,
 })
 
 addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Ardenweald', addon.magi.Colors.Blue2), {

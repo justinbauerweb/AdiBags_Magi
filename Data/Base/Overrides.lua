@@ -4,12 +4,19 @@ local Store = addon.magi.GetStore('Overrides')
 local Consumable = addon.magi.AddStoreCategory(Store, 'Consumable')
 addon.magi.AddIds(addon.magi.AddCategorySection(Consumable, 'Explosives and Devices', addon.magi.CategoryTypes.Consumable), {
     109076,
+    109599,
+    158380,
 })
 addon.magi.AddIds(addon.magi.AddCategorySection(Consumable, 'Potion', addon.magi.CategoryTypes.Consumable), {
     179982,
+    182188,
 })
 
 local Miscellaneous = addon.magi.AddStoreCategory(Store, 'Miscellaneous')
+addon.magi.AddIds(addon.magi.AddCategorySection(Miscellaneous, 'Reagent', addon.magi.CategoryTypes.Miscellaneous), {
+    172935,
+    38682,
+})
 addon.magi.AddIds(addon.magi.AddCategorySection(Miscellaneous, 'Other', addon.magi.CategoryTypes.Miscellaneous), {
     163695,
 })
@@ -25,6 +32,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Tradeskill, 'Herb', addon.magi.C
     109127,
     109128,
     109129,
+    85663,
 })
 addon.magi.AddIds(addon.magi.AddCategorySection(Tradeskill, 'Jewelcrafting', addon.magi.CategoryTypes.Tradeskill), {
     12811,
@@ -43,9 +51,14 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Tradeskill, 'Reagent', addon.mag
     6260,
     80433,
 })
+addon.magi.AddIds(addon.magi.AddCategorySection(Tradeskill, 'Inscription', addon.magi.CategoryTypes.Tradeskill), {
+    112377,
+    39354,
+})
 
 local Quest = addon.magi.AddStoreCategory(Store, 'Quest')
 addon.magi.AddIds(addon.magi.AddCategorySection(Quest, 'Quest', addon.magi.CategoryTypes.Quest), {
     141409,
-    49888
+    49888,
+    156517,
 })

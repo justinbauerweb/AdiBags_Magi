@@ -51,8 +51,10 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Abomination Factory')
 })
 
 addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Ember Court', nil, addon.magi.Colors.Red1), {
+    176122,
     176123,
     176125,
+    176135,
     176850,
     177230, -- Anima-Infused Water
     177231, -- Crown of Honor
