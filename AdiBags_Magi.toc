@@ -1,6 +1,6 @@
 ## Interface: 90002
 ## Title: AdiBags - Magi Filters
-## Version: 1.0.1
+## Version: 1.0.2
 ## Author: MagiMetal
 ## Notes: Custom-Specific AdiBags filters by MagiMetal
 ## X-Website: https://github.com/magimetal/AdiBags_Magi
