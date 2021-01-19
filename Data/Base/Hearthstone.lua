@@ -4,7 +4,7 @@ local Store = addon.magi.GetStore('Base')
 
 local Hearthstone = addon.magi.AddStoreCategory(Store, 'Hearthstone')
 
-addon.magi.AddIds(addon.magi.AddCategorySection(Hearthstone, 'Hearthstone', addon.magi.CategoryTypes.Miscellaneous, addon.magi.Colors.White), {
+addon.magi.AddIds(addon.magi.AddCategorySection(Hearthstone, 'Hearthstone', addon.magi.CategoryTypes.Miscellaneous, addon.magi.Colors.White1), {
     103678, -- Time-Lost Artifact
     110560, -- Garrison Hearthstone
     112059, -- Wormhole Centrifuge

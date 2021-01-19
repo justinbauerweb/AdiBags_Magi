@@ -4,7 +4,7 @@ local Store = addon.magi.GetStore('Shadowlands')
 
 local Covenant = addon.magi.AddStoreCategory(Store, 'Covenant')
 
-addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Abomination Factory'), {
+addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Abomination Factory', nil, addon.magi.Colors.Green1), {
     178061, -- Malleable Flesh
     178658,
     181371, -- Spare Head
@@ -117,7 +117,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Ember Court', nil, ad
     176124,
 })
 
-addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Queens Conservatory'), {
+addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Queens Conservatory', nil, addon.magi.Colors.Blue2), {
     176832, -- Wildseed Root Grain
     176921, -- Temporal Leaves
     176922, -- Wild Nightbloom

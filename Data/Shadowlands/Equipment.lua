@@ -4,7 +4,7 @@ local Store = addon.magi.GetStore('Shadowlands')
 
 local Equipment = addon.magi.AddStoreCategory(Store, 'Equipment')
 
-addon.magi.AddIds(addon.magi.AddCategorySection(Equipment, 'Legendary Armor', addon.magi.CategoryTypes.Equipment), {
+addon.magi.AddIds(addon.magi.AddCategorySection(Equipment, 'Legendary Armor', addon.magi.CategoryTypes.Equipment, addon.magi.Colors.Orange1), {
     171412, -- Shadowghast Breastplate
     171413, -- Shadowghast Sabatons
     171414, -- Shadowghast Gauntlets

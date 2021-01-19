@@ -4,7 +4,7 @@ local Store = addon.magi.GetStore('Shadowlands')
 
 local General = addon.magi.AddStoreCategory(Store, 'General')
 
-addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Anima Power'), {
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Anima Power', nil, addon.magi.Colors.Blue3), {
     181368, -- Centurion Power Core
     181377, -- Illustrated Combat Meditation Aid
     181477, -- Ardendew Pearl
@@ -85,7 +85,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Anima Power'), {
     184777, -- Gravedredger's Shovel
 })
 
-addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Conduits'), {
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Conduits', nil, addon.magi.Colors.Purple1), {
     180842, -- Stalwart Guardian
     180843, -- Template Conduit
     180844, -- Brutal Vitality
@@ -364,7 +364,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Conduits'), {
     184587, -- Ambuscade
 })
 
-addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Legendary Memory'), {
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Legendary Memory', nil, addon.magi.Colors.Orange1), {
     182617, -- Memory of Death's Embrace
     182625, -- Memory of an Everlasting Grip
     182626, -- Memory of the Phearomones
@@ -568,7 +568,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Legendary Memory'), {
     184665, -- Chronicle of Lost Memories
 })
 
-addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Cache'), {
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Cache', nil, addon.magi.Colors.Brown2), {
     181372, -- Tribute of the Ascended
     181475,
     181476, -- Tribute of the Wild-Hunt
@@ -583,7 +583,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Cache'), {
     184636,
 })
 
-addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Venari'), {
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Venari', nil, addon.magi.Colors.White2), {
     180949, -- Animaflow Stabilizer
     180952, -- Possibility Matrix
     180953, -- Soultwinning Scepter
@@ -650,7 +650,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Maldraxxus', nil, addo
     184159,
 })
 
-addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Torghast'), {
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Torghast', nil, addon.magi.Colors.Purple2), {
     168207,
     170540,
     171209,
