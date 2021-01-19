@@ -51,9 +51,13 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Abomination Factory',
 })
 
 addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Ember Court', nil, addon.magi.Colors.Red1), {
+    176120,
     176122,
     176123,
+    176124,
     176125,
+    176126,
+    176131,
     176135,
     176850,
     177230, -- Anima-Infused Water
@@ -71,7 +75,9 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Ember Court', nil, ad
     177243, -- Kyrian Arsenal
     177244, -- Night Fae Arsenal
     177245, -- Maldraxxi Challenge Banner
+    179958,
     180248, -- Ambassador's Reserve
+    181355,
     181362,
     181436, -- Vanity Mirror
     181437, -- Training Dummies
@@ -107,14 +113,11 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Ember Court', nil, ad
     182296, -- Letter of Note, Premier Party Planner
     182342, -- Staff: Ambassador
     182343, -- Staff: Ambassador
+    183884,
     183956, -- Invitation: Choofa
     183957, -- Invitation: Grandmaster Vole
     184628, -- Elder's Sacrificial Moonstone
     184663, -- Building: Guardhouse
-    176131,
-    179958,
-    176120,
-    176124,
 })
 
 addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Queens Conservatory', nil, addon.magi.Colors.Blue2), {

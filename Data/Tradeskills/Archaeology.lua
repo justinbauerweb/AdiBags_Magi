@@ -42,6 +42,8 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Archaeology, 'Archaeology', addo
     164625,     -- Demon
     164626,     -- Highborne
     164627,     -- Tauren
+    174758,
+    174764,
     183834,     -- Drust
     183835,     -- Zandalari
     51926,      -- Pristine Akun'Jar Vase

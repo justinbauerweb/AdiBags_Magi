@@ -4,7 +4,7 @@ local Store = addon.magi.GetStore('Base')
 
 local Event = addon.magi.AddStoreCategory(Store, 'Event')
 
-addon.magi.AddIds(addon.magi.AddCategorySection(Event, 'Darkmoon Faire'), {
+addon.magi.AddIds(addon.magi.AddCategorySection(Event, 'Darkmoon Faire', nil, addon.magi.Colors.Purple3), {
     71083,
     71634,
     71636,

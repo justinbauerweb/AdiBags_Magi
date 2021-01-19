@@ -4,13 +4,15 @@ local Store = addon.magi.GetStore('Base')
 
 local Equipment = addon.magi.AddStoreCategory(Store, 'Equipment')
 
-addon.magi.AddIds(addon.magi.AddCategorySection(Equipment, 'Cosmetic', addon.magi.CategoryTypes.Equipment), {
+addon.magi.AddIds(addon.magi.AddCategorySection(Equipment, 'Cosmetic', addon.magi.CategoryTypes.Equipment, addon.magi.Colors.Purple1), {
     139300,
     141322,
     147885,
     178514,
     180941,
+    181232,
     181301,
+    181327,
     181803,
     181803,
     184154,

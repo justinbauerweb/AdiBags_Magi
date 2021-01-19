@@ -10,6 +10,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Consumable, 'Explosives and Devi
 addon.magi.AddIds(addon.magi.AddCategorySection(Consumable, 'Potion', addon.magi.CategoryTypes.Consumable), {
     179982,
     182188,
+    40195,
 })
 
 local Miscellaneous = addon.magi.AddStoreCategory(Store, 'Miscellaneous')
@@ -19,6 +20,9 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Miscellaneous, 'Reagent', addon.
 })
 addon.magi.AddIds(addon.magi.AddCategorySection(Miscellaneous, 'Other', addon.magi.CategoryTypes.Miscellaneous), {
     163695,
+})
+addon.magi.AddIds(addon.magi.AddCategorySection(Miscellaneous, 'Key', addon.magi.CategoryTypes.Miscellaneous), {
+    171441,
 })
 
 local Tradeskill = addon.magi.AddStoreCategory(Store, 'Tradeskill')
@@ -53,12 +57,14 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Tradeskill, 'Reagent', addon.mag
 })
 addon.magi.AddIds(addon.magi.AddCategorySection(Tradeskill, 'Inscription', addon.magi.CategoryTypes.Tradeskill), {
     112377,
+    112377,
     39354,
 })
 
 local Quest = addon.magi.AddStoreCategory(Store, 'Quest')
 addon.magi.AddIds(addon.magi.AddCategorySection(Quest, 'Quest', addon.magi.CategoryTypes.Quest), {
     141409,
-    49888,
     156517,
+    156517,
+    49888,
 })

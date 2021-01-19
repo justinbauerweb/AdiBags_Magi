@@ -17,6 +17,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Currency'), {
     173363,
     178040,
     184304, -- Anima Touched Weapon Fragments
+    21100,
     32897,
     42780,
     47242,
@@ -30,6 +31,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Novelty'), {
     163695,
     183616,
     80914,
+    8383,
 })
 
 addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Alcohol', addon.magi.CategoryTypes.Consumable), {

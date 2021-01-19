@@ -4,7 +4,7 @@ local Store = addon.magi.GetStore('Warlords')
 
 local Garrison = addon.magi.AddStoreCategory(Store, 'Garrison')
 
-addon.magi.AddIds(addon.magi.AddCategorySection(Garrison, 'Garrison'), {
+addon.magi.AddIds(addon.magi.AddCategorySection(Garrison, 'Garrison', nil, addon.magi.Colors.Brown3), {
     107694, -- Garrison Blueprint: Lunarfall Inn, Level 2
     109062, -- Garrison Blueprint: Mage Tower, Level 2
     109063, -- Garrison Blueprint: Mage Tower, Level 3

@@ -611,6 +611,32 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Contracts'), {
     311412, -- Contract: Court of Harvesters
 })
 
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Ardenweald', addon.magi.Colors.Blue2), {
+    175247,
+    180654,
+    183718,
+    183902,
+})
+
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Bastion', nil, addon.magi.Colors.Blue1), {
+    172451,
+    178149,
+    178658,
+    178658,
+    178915,
+    179982,
+    180062,
+    182653,
+    182749,
+})
+
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Maldraxxus', nil, addon.magi.Colors.Green1), {
+    183397,
+    183401,
+    183847,
+    184159,
+})
+
 addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Revendreth', nil, addon.magi.Colors.Brown1), {
     173939,
     174378,
@@ -623,31 +649,6 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Revendreth', nil, addo
     182744,
     183987,
     184719,
-})
-
-addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Bastion', nil, addon.magi.Colors.Blue1), {
-    172451,
-    178658,
-    178658,
-    178915,
-    179982,
-    180062,
-    182653,
-    182749,
-})
-
-addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Ardenweald', addon.magi.Colors.Blue2), {
-    175247,
-    180654,
-    183718,
-    183902,
-})
-
-addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Maldraxxus', nil, addon.magi.Colors.Green1), {
-    183397,
-    183401,
-    183847,
-    184159,
 })
 
 addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Torghast', nil, addon.magi.Colors.Purple2), {

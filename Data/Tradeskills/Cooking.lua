@@ -15,12 +15,6 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Cooking, 'Cooking', addon.magi.C
     102542, -- Ancient Pandaren Spices
     102543, -- Aged Mogu'shan Cheese
     1080, -- Tough Condor Meat
-    109124, -- Frostweed
-    109125, -- Fireweed
-    109126, -- Gorgrond Flytrap
-    109127, -- Starflower
-    109128, -- Nagrand Arrowbloom
-    109129, -- Talador Orchid
     109131, -- Raw Clefthoof Meat
     109132, -- Raw Talbuk Meat
     109133, -- Rylak Egg
