@@ -6,11 +6,15 @@ local Covenant = addon.magi.AddStoreCategory(Store, 'Covenant')
 
 addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Abomination Factory', nil, addon.magi.Colors.Green1), {
     178061, -- Malleable Flesh
+    178554,
     178658,
+    178678,
+    178679,
     181371, -- Spare Head
     181797, -- Strange Cloth
     181798, -- Stuffed Construct
     181799, -- Extra Large Hat
+    183166,
     183519, -- Necromantic Oil
     183589, -- Necromantic Oil
     183743, -- Malleable Flesh
@@ -48,6 +52,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Abomination Factory',
     184224, -- Dapperling Seeds
     184225, -- Small Posable Skeleton
     184304,
+    184843,
 })
 
 addon.magi.AddIds(addon.magi.AddCategorySection(Covenant, 'Ember Court', nil, addon.magi.Colors.Red1), {

@@ -583,27 +583,6 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Cache', nil, addon.mag
     184636,
 })
 
-addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Venari', nil, addon.magi.Colors.White2), {
-    180949, -- Animaflow Stabilizer
-    180952, -- Possibility Matrix
-    180953, -- Soultwinning Scepter
-    181245, -- Oil of Ethereal Force
-    184361, -- Spatial Realignment Apparatus
-    184588, -- Soul-Stabilizing Talisman
-    184605, -- Sigil of the Unseen
-    184613, -- Encased Riftwalker Essence
-    184615, -- Extradimensional Pockets
-    184617, -- Bangle of Seniority
-    184618, -- Rank Insignia: Acquisitionist
-    184619, -- Loupe of Unusual Charm
-    184620, -- Vessel of Unfortunate Spirits
-    184621, -- Ritual Prism of Fortune
-    184651, -- Maw-Touched Miasma
-    184652, -- Phantasmic Infuser
-    184653, -- Animated Levitating Chain
-    184664, -- Sticky-Fingered Skeletal Hand
-})
-
 addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Contracts'), {
     311409, -- Contract: The Ascended
     311410, -- Contract: The Wild Hunt
@@ -660,4 +639,27 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Torghast', nil, addon.
     176408,
     176409,
     176443,
+    184662,
+})
+
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Venari', nil, addon.magi.Colors.White2), {
+    180949, -- Animaflow Stabilizer
+    180952, -- Possibility Matrix
+    180953, -- Soultwinning Scepter
+    181245, -- Oil of Ethereal Force
+    183870,
+    184361, -- Spatial Realignment Apparatus
+    184588, -- Soul-Stabilizing Talisman
+    184605, -- Sigil of the Unseen
+    184613, -- Encased Riftwalker Essence
+    184615, -- Extradimensional Pockets
+    184617, -- Bangle of Seniority
+    184618, -- Rank Insignia: Acquisitionist
+    184619, -- Loupe of Unusual Charm
+    184620, -- Vessel of Unfortunate Spirits
+    184621, -- Ritual Prism of Fortune
+    184651, -- Maw-Touched Miasma
+    184652, -- Phantasmic Infuser
+    184653, -- Animated Levitating Chain
+    184664, -- Sticky-Fingered Skeletal Hand
 })

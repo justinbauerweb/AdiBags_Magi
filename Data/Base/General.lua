@@ -4,6 +4,17 @@ local Store = addon.magi.GetStore('Base')
 
 local General = addon.magi.AddStoreCategory(Store, 'General')
 
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Alcohol', addon.magi.CategoryTypes.Consumable), {
+    182121,
+    183616,
+    37898,
+    80914,
+})
+
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Battle Pets'), {
+    116420
+})
+
 addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Currency'), {
     116394,
     116395,
@@ -34,11 +45,8 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Novelty'), {
     8383,
 })
 
-addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Alcohol', addon.magi.CategoryTypes.Consumable), {
-    182121,
-    183616,
-    37898,
-    80914,
+addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Toy'), {
+    117550,
 })
 
 addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Speed Gear'), {
