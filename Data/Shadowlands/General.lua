@@ -577,10 +577,13 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Cache', nil, addon.mag
     181732, -- Tribute of the Ambitious
     181733, -- Tribute of the Duty-bound
     181741, -- Tribute of the Paragon
+    184395,
     184631,
     184634,
     184635,
     184636,
+    184639,
+    184641,
 })
 
 addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Contracts'), {
@@ -612,6 +615,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Bastion', nil, addon.m
 addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Maldraxxus', nil, addon.magi.Colors.Green1), {
     183397,
     183401,
+    183602,
     183847,
     184159,
 })
@@ -619,6 +623,9 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Maldraxxus', nil, addo
 addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Revendreth', nil, addon.magi.Colors.Brown1), {
     173939,
     174378,
+    176397,
+    178124,
+    180367,
     180689,
     180713,
     180834,

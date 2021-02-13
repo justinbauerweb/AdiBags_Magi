@@ -20,6 +20,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Currency'), {
     116395,
     116415,
     118099,
+    118100,
     118720,
     119297,
     119299,
@@ -41,6 +42,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(General, 'Novelty'), {
     113545,
     163695,
     183616,
+    27944,
     80914,
     8383,
 })

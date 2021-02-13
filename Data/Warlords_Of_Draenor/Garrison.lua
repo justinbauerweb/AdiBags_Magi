@@ -107,6 +107,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Garrison, 'Garrison', nil, addon
     116431, -- Garrison Blueprint: Frostwall Tavern, Level 2
     116432, -- Garrison Blueprint: Frostwall Tavern, Level 3
     116915, -- Inactive Apexis Guardian
+    116980,
     117397, -- Nat's Lucky Coin
     118197,
     118215, -- Book of Garrison Blueprints
@@ -114,6 +115,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Garrison, 'Garrison', nil, addon
     118354, -- Follower Re-training Certificate
     118474, -- Supreme Manual of Dance
     118475, -- Hearthstone Strategy Guide
+    118731,
     118897, -- Miner's Coffee
     118903, -- Preserved Mining Pick
     119161, -- Contract: Karg Bloodfury
@@ -156,6 +158,8 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Garrison, 'Garrison', nil, addon
     120302, -- Weapon Enhancement Token
     120311, -- The Blademaster's Necklace
     120313, -- Sanketsu
+    120319,
+    120320,
     122135, -- Contract: Greatmother Geyah
     122136, -- Contract: Kal'gor the Honorable
     122137, -- Contract: Bruma Swiftstone
@@ -216,4 +220,5 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Garrison, 'Garrison', nil, addon
     128492, -- Ship Blueprint: Battleship (alliance)
     139593,
     139594,
+    140590,
 })

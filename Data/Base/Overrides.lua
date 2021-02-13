@@ -9,6 +9,7 @@ addon.magi.AddIds(addon.magi.AddCategorySection(Consumable, 'Explosives and Devi
 })
 addon.magi.AddIds(addon.magi.AddCategorySection(Consumable, 'Potion', addon.magi.CategoryTypes.Consumable), {
     179982,
+    181468,
     182188,
     40195,
 })
